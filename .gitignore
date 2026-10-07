@@ -1,0 +1,12 @@
+# macOS / Jupyter
+.DS_Store
+.ipynb_checkpoints/
+.jupyter/
+.virtual_documents/
+anaconda_projects/
+__pycache__/
+
+# files the notebooks create when you run them
+ep01_melody.wav
+dataset/
+export/
